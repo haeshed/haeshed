@@ -3,12 +3,8 @@
 <h1 align="center">Hi 👋, I'm haeshed</h1>
 <h3 align="center">A passionate CS and ML MSc student</h3>
 
-- 🔭 I’m currently working on **learning more advanced ML methods**
-
-- 🌱 I’m currently learning **NLP and Deep Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/haeshed?tab=repositories](https://github.com/haeshed?tab=repositories)
-
+- 🔭 I’m currently working on **learning more advanced ML methods, (NLP and Deep Learning)**
+- 👨‍💻 All of my projects are available at [up there!](https://github.com/haeshed?tab=repositories)
 - ⚡ Fun fact **I was once bitten by a hedgehog, so now i'm slightly spiky**
 
 <h3 align="left"></h3>
