@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/haeshed?tab=repositories](https://github.com/haeshed?tab=repositories)
 
-- ⚡ Fun fact **I was once bitten by a hedgehog, so now i'm spiky**
+- ⚡ Fun fact **I was once bitten by a hedgehog, so now i'm slightly spiky**
 
 <h3 align="left"></h3>
 <div style="display:flex">
